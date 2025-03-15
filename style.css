@@ -66,7 +66,7 @@ nav ul li a:hover::after {
 
 .sidebar {
   width: 25%;
-  background: #d1d5db;
+  background: #ddd;
   padding: 20px;
   border-radius: 10px;
   box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
